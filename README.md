@@ -49,8 +49,10 @@ An AI-powered stock analysis and investment insights tool.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lakshinkhurana&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://komarev.com/ghpvc/?username=lakshinkhurana&label=Profile%20views&color=0e75b6&style=flat" height="25em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshinkhurana&layout=compact&theme=radical" height="180em"/>
 </p>
+
 
 ---
 
