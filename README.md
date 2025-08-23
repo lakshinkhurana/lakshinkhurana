@@ -62,7 +62,7 @@ An AI-powered stock analysis and investment insights tool.
 ---
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn][Lakshin Khurana](https://www.linkedin.com/in/lakshin-khurana-b610402a1/)
+- 💼 LinkedIn : [Lakshin Khurana](https://www.linkedin.com/in/lakshin-khurana-b610402a1/)
 - ✉️ Reach me at: **lakshinkhurana@gmail.com**  
 
 ---
