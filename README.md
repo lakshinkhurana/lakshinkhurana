@@ -11,7 +11,7 @@ I build practical AI projects and work on strengthening my **DSA skills in C++**
 
 
 ## 🔥 About Me  
-- 🧠 Currently working on **Music Transformer** to explore transformer architectures.  
+- 🧠 Built a **Music Transformer** reimplementing a research paper with the help of prompt engineering and generated bach style music
 - 🧠 Built a  **nanoGPT** using transformers that talks Shakespeare.  
 - ⚙️ Built a **Workday Automation** project to simplify repetitive workflows.  
 - 💻 Languages I use: **Python** (ML/AI, automation) & **C++** (DSA).  
