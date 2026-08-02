@@ -30,31 +30,26 @@ I build AI systems by reimplementing the papers behind them, not just calling th
 
 ### Projects
 
-**[Music Transformer](https://github.com/lakshinkhurana/music-transformer)**
-From-scratch reimplementation of the Music Transformer paper, trained on 100K+ MIDI tokens to generate Bach-style compositions. Loss 1.83 · Perplexity 6.26.
-
-**[NanoGPT](https://github.com/lakshinkhurana/nanoGPT)**
-Character-level GPT trained on Shakespeare — tokenization, dataset prep, and training loop built from scratch.
-
-**[Workday Automation](https://github.com/lakshinkhurana/workday-automation)**
-Python tool that automates repetitive data-handling and reporting workflows.
+- **[Music Transformer](https://github.com/lakshinkhurana/music-transformer)** — From-scratch reimplementation of the Music Transformer paper, trained on 100K+ MIDI tokens to generate Bach-style compositions. Loss 1.83 · Perplexity 6.26.
+- **[NanoGPT](https://github.com/lakshinkhurana/nanoGPT)** — Character-level GPT trained on Shakespeare — tokenization, dataset prep, and training loop built from scratch.
+- **[Workday Automation](https://github.com/lakshinkhurana/workday-automation)** — Python tool that automates repetitive data-handling and reporting workflows.
 
 <br>
 
 ### GitHub
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=lakshinkhurana&show_icons=true&hide_border=true&bg_color=00000000&title_color=e6e6e6&text_color=9e9e9e&icon_color=6e6e6e"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=lakshinkhurana&show_icons=true&hide_border=true&bg_color=00000000&title_color=1a1a1a&text_color=4a4a4a&icon_color=6e6e6e"/>
-  <img src="https://github-stats-extended.vercel.app/api?username=lakshinkhurana&show_icons=true&hide_border=true&title_color=1a1a1a&text_color=4a4a4a&icon_color=6e6e6e" height="160"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=lakshinkhurana&show_icons=true&hide_border=false&border_color=ffffff20&bg_color=00000000&title_color=e6e6e6&text_color=9e9e9e&icon_color=6e6e6e"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=lakshinkhurana&show_icons=true&hide_border=false&border_color=ffffff20&bg_color=00000000&title_color=1a1a1a&text_color=4a4a4a&icon_color=6e6e6e"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=lakshinkhurana&show_icons=true&hide_border=false&border_color=ffffff20&title_color=1a1a1a&text_color=4a4a4a&icon_color=6e6e6e" height="160"/>
 </picture>
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=lakshinkhurana&layout=compact&hide_border=true&bg_color=00000000&title_color=e6e6e6&text_color=9e9e9e"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=lakshinkhurana&layout=compact&hide_border=true&bg_color=00000000&title_color=1a1a1a&text_color=4a4a4a"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lakshinkhurana&layout=compact&hide_border=true&title_color=1a1a1a&text_color=4a4a4a" height="160"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=lakshinkhurana&layout=compact&hide_border=false&border_color=ffffff20&bg_color=00000000&title_color=e6e6e6&text_color=9e9e9e"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=lakshinkhurana&layout=compact&hide_border=false&border_color=ffffff20&bg_color=00000000&title_color=1a1a1a&text_color=4a4a4a"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lakshinkhurana&layout=compact&hide_border=false&border_color=ffffff20&title_color=1a1a1a&text_color=4a4a4a" height="160"/>
 </picture>
 
 <picture>
