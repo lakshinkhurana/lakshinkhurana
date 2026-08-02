@@ -48,6 +48,9 @@ Python tool that automates repetitive data-handling and reporting workflows.
   <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=lakshinkhurana&show_icons=true&hide_border=true&bg_color=00000000&title_color=1a1a1a&text_color=4a4a4a&icon_color=6e6e6e"/>
   <img src="https://github-stats-extended.vercel.app/api?username=lakshinkhurana&show_icons=true&hide_border=true&title_color=1a1a1a&text_color=4a4a4a&icon_color=6e6e6e" height="160"/>
 </picture>
+
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=lakshinkhurana&layout=compact&hide_border=true&bg_color=00000000&title_color=e6e6e6&text_color=9e9e9e"/>
   <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=lakshinkhurana&layout=compact&hide_border=true&bg_color=00000000&title_color=1a1a1a&text_color=4a4a4a"/>
