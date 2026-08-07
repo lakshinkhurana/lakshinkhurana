@@ -2,7 +2,7 @@
 
 # Lakshin Khurana
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1500&color=8B8B8B&center=true&vCenter=true&width=460&height=24&lines=B.Tech+IT+%C2%B7+MAIT+%C2%B7+Class+of+2027;Applied+AI+%2F+ML+%C2%B7+Transformers+%C2%B7+NLP;Currently+interviewing+for+Applied+Scientist+%2F+SDE" alt="tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1500&color=8B8B8B&center=true&vCenter=true&width=460&height=24&lines=B.Tech+ITE+%C2%B7+MAIT+%C2%B7+Class+of+2027;Applied+AI+%2F+ML+%C2%B7+Transformers+%C2%B7+NLP;Currently+interviewing+for+Applied+Scientist+%2F+SDE" alt="tagline"/>
 
 [LinkedIn](https://www.linkedin.com/in/lakshin-khurana-b610402a1/) · [Email](mailto:lakshinkhurana@gmail.com) · [GitHub](https://github.com/lakshinkhurana)
 
